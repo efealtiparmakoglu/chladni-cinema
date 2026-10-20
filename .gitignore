@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# simülasyon önbelleği (yeniden üretilebilir)
+cache/
+
+# render kareleri
+renders/preview/
+renders/chladni/
